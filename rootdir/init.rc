@@ -9,7 +9,7 @@ import /init.${ro.hardware}.rc
 import /init.trace.rc
 
 # Include extra init file
-import /init.pa.rc
+import /init.orca.rc
 
 on early-init
     # Set init and its forked children's oom_adj.
